@@ -1,0 +1,16 @@
+[
+  { 
+    "expertId": 1, 
+    "team": "Bills", 
+    "type": "spread", 
+    "line": -6.5, 
+    "side": "Bills" 
+  },
+  { 
+    "expertId": 2, 
+    "team": "Chiefs", 
+    "type": "total", 
+    "line": 44.5, 
+    "side": "Over" 
+  }
+]

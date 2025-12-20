@@ -1,8 +1,15 @@
 {
-  "contestName": "Circa Million VI",
+  "contestName": "Circa Million VI - Week 16",
   "lines": [
-    { "team": "PIT", "spread": 2.5 },
-    { "team": "BAL", "spread": -2.5 },
-    { "team": "KC", "spread": -6.0 }
+    { "team": "Bengals", "spread": -3.0 },
+    { "team": "Browns", "spread": 3.0 },
+    { "team": "Bills", "spread": -6.5 },
+    { "team": "Patriots", "spread": 6.5 },
+    { "team": "Lions", "spread": -5.5 },
+    { "team": "Bears", "spread": 5.5 },
+    { "team": "Chiefs", "spread": -4.0 },
+    { "team": "Texans", "spread": 4.0 },
+    { "team": "Ravens", "spread": -2.5 },
+    { "team": "Steelers", "spread": 2.5 }
   ]
 }

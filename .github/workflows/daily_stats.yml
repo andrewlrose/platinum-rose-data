@@ -1,0 +1,35 @@
+name: "Bot B: The Scout (Fetch Stats)"
+
+on:
+  schedule:
+    # Run at 10:00 UTC every Wednesday (After stat corrections are official)
+    - cron: '0 10 * * 3'
+  workflow_dispatch: # Allows you to run it manually anytime
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Libraries
+        run: pip install pandas nfl_data_py
+
+      - name: Run The Scout
+        run: python scripts/fetch_stats.py
+
+      - name: Commit Data
+        run: |
+          git config --global user.name 'Platinum Rose Bot'
+          git config --global user.email 'bot@platinumrose.ai'
+          git add global/team_ratings.csv
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Updated Team EPA Ratings" && git push)

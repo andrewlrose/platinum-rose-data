@@ -8,7 +8,10 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-18T20:15Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "FINAL",
+    "home_score": 38,
+    "visitor_score": 37
   },
   {
     "id": "wk16-phi-was",
@@ -19,7 +22,10 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-20T17:00Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "FINAL",
+    "home_score": 18,
+    "visitor_score": 29
   },
   {
     "id": "wk16-gb-chi",
@@ -30,7 +36,10 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-20T20:20Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "FINAL",
+    "home_score": 22,
+    "visitor_score": 16
   },
   {
     "id": "wk16-tb-car",
@@ -41,7 +50,10 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T13:00Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "SCHEDULED",
+    "home_score": 0,
+    "visitor_score": 0
   },
   {
     "id": "wk16-buf-cle",
@@ -52,7 +64,10 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T13:00Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "SCHEDULED",
+    "home_score": 0,
+    "visitor_score": 0
   },
   {
     "id": "wk16-lac-dal",
@@ -63,7 +78,10 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T13:00Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "SCHEDULED",
+    "home_score": 0,
+    "visitor_score": 0
   },
   {
     "id": "wk16-cin-mia",
@@ -74,7 +92,10 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T13:00Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "SCHEDULED",
+    "home_score": 0,
+    "visitor_score": 0
   },
   {
     "id": "wk16-nyj-no",
@@ -85,7 +106,10 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T13:00Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "SCHEDULED",
+    "home_score": 0,
+    "visitor_score": 0
   },
   {
     "id": "wk16-min-nyg",
@@ -96,7 +120,10 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T13:00Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "SCHEDULED",
+    "home_score": 0,
+    "visitor_score": 0
   },
   {
     "id": "wk16-kc-ten",
@@ -107,7 +134,10 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T13:00Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "SCHEDULED",
+    "home_score": 0,
+    "visitor_score": 0
   },
   {
     "id": "wk16-atl-ari",
@@ -118,7 +148,10 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T16:05Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "SCHEDULED",
+    "home_score": 0,
+    "visitor_score": 0
   },
   {
     "id": "wk16-jax-den",
@@ -129,7 +162,10 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T16:05Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "SCHEDULED",
+    "home_score": 0,
+    "visitor_score": 0
   },
   {
     "id": "wk16-pit-det",
@@ -140,7 +176,10 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T16:25Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "SCHEDULED",
+    "home_score": 0,
+    "visitor_score": 0
   },
   {
     "id": "wk16-lv-hou",
@@ -151,7 +190,10 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T16:25Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "SCHEDULED",
+    "home_score": 0,
+    "visitor_score": 0
   },
   {
     "id": "wk16-ne-bal",
@@ -162,7 +204,10 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T20:20Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "SCHEDULED",
+    "home_score": 0,
+    "visitor_score": 0
   },
   {
     "id": "wk16-sf-ind",
@@ -173,6 +218,9 @@
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-22T20:15Z",
-    "conference": "NFL"
+    "conference": "NFL",
+    "status": "SCHEDULED",
+    "home_score": 0,
+    "visitor_score": 0
   }
 ]

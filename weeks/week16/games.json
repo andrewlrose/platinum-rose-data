@@ -46,14 +46,14 @@
     "home": "CAR",
     "visitor": "TB",
     "spread": -3.0,
-    "total": 45.5,
+    "total": 44.5,
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T13:00Z",
     "conference": "NFL",
-    "status": "SCHEDULED",
-    "home_score": 0,
-    "visitor_score": 0
+    "status": "FINAL",
+    "home_score": 23,
+    "visitor_score": 20
   },
   {
     "id": "wk16-buf-cle",
@@ -65,9 +65,9 @@
     "visitor_ml": 0,
     "commence_time": "2025-12-21T13:00Z",
     "conference": "NFL",
-    "status": "SCHEDULED",
-    "home_score": 0,
-    "visitor_score": 0
+    "status": "FINAL",
+    "home_score": 20,
+    "visitor_score": 23
   },
   {
     "id": "wk16-lac-dal",
@@ -79,79 +79,79 @@
     "visitor_ml": 0,
     "commence_time": "2025-12-21T13:00Z",
     "conference": "NFL",
-    "status": "SCHEDULED",
-    "home_score": 0,
-    "visitor_score": 0
+    "status": "FINAL",
+    "home_score": 17,
+    "visitor_score": 34
   },
   {
     "id": "wk16-cin-mia",
     "home": "MIA",
     "visitor": "CIN",
-    "spread": -4.5,
+    "spread": -3.5,
     "total": 48.5,
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T13:00Z",
     "conference": "NFL",
-    "status": "SCHEDULED",
-    "home_score": 0,
-    "visitor_score": 0
+    "status": "FINAL",
+    "home_score": 21,
+    "visitor_score": 45
   },
   {
     "id": "wk16-nyj-no",
     "home": "NO",
     "visitor": "NYJ",
     "spread": 6.5,
-    "total": 40.5,
+    "total": 39.5,
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T13:00Z",
     "conference": "NFL",
-    "status": "SCHEDULED",
-    "home_score": 0,
-    "visitor_score": 0
+    "status": "FINAL",
+    "home_score": 29,
+    "visitor_score": 6
   },
   {
     "id": "wk16-min-nyg",
     "home": "NYG",
     "visitor": "MIN",
     "spread": -2.5,
-    "total": 43.5,
+    "total": 41.5,
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T13:00Z",
     "conference": "NFL",
-    "status": "SCHEDULED",
-    "home_score": 0,
-    "visitor_score": 0
+    "status": "FINAL",
+    "home_score": 13,
+    "visitor_score": 16
   },
   {
     "id": "wk16-kc-ten",
     "home": "TEN",
     "visitor": "KC",
-    "spread": -3.0,
+    "spread": -3.5,
     "total": 37.5,
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T13:00Z",
     "conference": "NFL",
-    "status": "SCHEDULED",
-    "home_score": 0,
-    "visitor_score": 0
+    "status": "FINAL",
+    "home_score": 26,
+    "visitor_score": 9
   },
   {
     "id": "wk16-atl-ari",
     "home": "ARI",
     "visitor": "ATL",
-    "spread": -3.0,
+    "spread": -2.5,
     "total": 48.5,
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T16:05Z",
     "conference": "NFL",
-    "status": "SCHEDULED",
-    "home_score": 0,
-    "visitor_score": 0
+    "status": "FINAL",
+    "home_score": 19,
+    "visitor_score": 26
   },
   {
     "id": "wk16-jax-den",
@@ -163,64 +163,64 @@
     "visitor_ml": 0,
     "commence_time": "2025-12-21T16:05Z",
     "conference": "NFL",
-    "status": "SCHEDULED",
-    "home_score": 0,
-    "visitor_score": 0
+    "status": "FINAL",
+    "home_score": 20,
+    "visitor_score": 34
   },
   {
     "id": "wk16-pit-det",
     "home": "DET",
     "visitor": "PIT",
-    "spread": 7.0,
+    "spread": 7.5,
     "total": 52.5,
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T16:25Z",
     "conference": "NFL",
-    "status": "SCHEDULED",
-    "home_score": 0,
-    "visitor_score": 0
+    "status": "FINAL",
+    "home_score": 24,
+    "visitor_score": 29
   },
   {
     "id": "wk16-lv-hou",
     "home": "HOU",
     "visitor": "LV",
     "spread": 14.5,
-    "total": 37.5,
+    "total": 39.5,
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T16:25Z",
     "conference": "NFL",
-    "status": "SCHEDULED",
-    "home_score": 0,
-    "visitor_score": 0
+    "status": "FINAL",
+    "home_score": 23,
+    "visitor_score": 21
   },
   {
     "id": "wk16-ne-bal",
     "home": "BAL",
     "visitor": "NE",
-    "spread": 3.0,
+    "spread": 3.5,
     "total": 48.5,
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-21T20:20Z",
     "conference": "NFL",
-    "status": "SCHEDULED",
-    "home_score": 0,
-    "visitor_score": 0
+    "status": "FINAL",
+    "home_score": 24,
+    "visitor_score": 28
   },
   {
     "id": "wk16-sf-ind",
     "home": "IND",
     "visitor": "SF",
-    "spread": -5.5,
+    "spread": -4.5,
     "total": 46.5,
     "home_ml": 0,
     "visitor_ml": 0,
     "commence_time": "2025-12-22T20:15Z",
     "conference": "NFL",
-    "status": "SCHEDULED",
-    "home_score": 0,
-    "visitor_score": 0
+    "status": "FINAL",
+    "home_score": 27,
+    "visitor_score": 48
   }
 ]
